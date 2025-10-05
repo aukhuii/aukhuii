@@ -1,5 +1,5 @@
 ## 👋 Chào đằng ấy, tôi là Khôi | Kyle!
-<img src="https://baoayano.github.io/wp.png" width="220" align="right">
+<img src="[https://baoayano.github.io/wp.png](https://i.pinimg.com/736x/b5/59/5b/b5595b70aafe0d8928528e1c7907b557.jpg)" width="220" align="right">
 
 🌱 Casual Frontend Developer — bắt đầu code từ năm 13 tuổi.  
 💡 Thích vọc vạch, build project cho vui, cho tò mò, và đôi khi chỉ để thử xem mình có làm được không.  
