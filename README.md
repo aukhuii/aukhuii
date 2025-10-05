@@ -1,16 +1,35 @@
-## Hi there 👋
+## 👋 Chào đằng ấy, tôi là Khôi | Kyle!
+<img src="https://baoayano.github.io/wp.png" width="220" align="right">
 
-<!--
-**aukhuii/aukhuii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Casual Frontend Developer — bắt đầu code từ năm 13 tuổi.  
+💡 Thích vọc vạch, build project cho vui, cho tò mò, và đôi khi chỉ để thử xem mình có làm được không.  
+✨ Hiện đang khám phá web hiện đại, UI/UX và tận hưởng hành trình code từng dòng một.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Tech Stack
+![](https://skillicons.dev/icons?i=ts,cpp,php)  
+![](https://skillicons.dev/icons?i=react,next,tailwind,scss)
+
+### 🛠️ Tools
+![](https://skillicons.dev/icons?i=npm,pnpm,git,vscode)
+
+---
+
+### 📫 Contact
+💬 Mọi thông tin mình để ở [shizuku.tech](https://shizuku.tech/)  
+[![Discord Presence](https://lanyard.cnrad.dev/api/295936488661843968?theme=dark&bg=282A36&borderRadius=15px&animated=true)](https://discord.com/users/295936488661843968)
+
+---
+
+### ⭐ Achievements
+<img src="https://anime.plus/image/achievement/manga-score-high.png" width="120">
+<img src="https://anime.plus/image/achievement/anime-mahou-shoujo-1.png" width="120">
+<img src="https://anime.plus/image/achievement/anime-music-1.png" width="120">
+
+*Xem thêm: [achievements.md](https://github.com/anime-plus/graph/blob/main/achievements.md)*
+
+---
+
+### 📝 Fun fact
+> *"Sometimes I code just to see if I can. Most of the time… I actually can 😎"*
