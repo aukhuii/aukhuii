@@ -18,7 +18,8 @@ Hiện tại đang học Backend và có dự định sẽ sang mãng game.
 ---
 
 ### 📫 Contact
-Mọi liên hệ đều có ở [All my contracts go to] : https://anhyeukphg.vercel.app
+Mọi liên hệ đều có ở [All my contracts go to] : [infopage.vercel](https://anhyeukphg.vercel.app)
+<br>
 [![Discord Presence](https://lanyard.cnrad.dev/api/578451004505325569?idleMessage=Not%20doing%20anything&bg=40454d&animated=false&animatedDecoration=false&theme=dark)](https://discord.com/users/578451004505325569)
 
 ### FF: I'm a lazy guy.💔
