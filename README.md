@@ -1,35 +1,24 @@
 ## 👋 Chào đằng ấy, tôi là Khôi | Kyle!
-<img src="[https://baoayano.github.io/wp.png](https://i.pinimg.com/736x/b5/59/5b/b5595b70aafe0d8928528e1c7907b557.jpg)" width="220" align="right">
+<img src="[https://i.pinimg.com/736x/b5/59/5b/b5595b70aafe0d8928528e1c7907b557.jpg]" width="220" align="right">
 
-🌱 Casual Frontend Developer — bắt đầu code từ năm 13 tuổi.  
-💡 Thích vọc vạch, build project cho vui, cho tò mò, và đôi khi chỉ để thử xem mình có làm được không.  
-✨ Hiện đang khám phá web hiện đại, UI/UX và tận hưởng hành trình code từng dòng một.  
+🐧 A Casual Frontend Developer who has been learning Frontend for 4 months.
+Thích vọc vạch, build project cho vui, cho tò mò, và đôi khi chỉ để thử xem mình có làm được không.
+Hiện tại đang học Backend và có dự định sẽ sang mãng game.
 
 ---
 
-### 🌐 Tech Stack
-![](https://skillicons.dev/icons?i=ts,cpp,php)  
-![](https://skillicons.dev/icons?i=react,next,tailwind,scss)
+### 🌐 Tech I Used
+![](https://skillicons.dev/icons?i=js,html,css)
+### 🌐 Planning On
+![](https://skillicons.dev/icons?i=c,cs,cpp)
 
 ### 🛠️ Tools
-![](https://skillicons.dev/icons?i=npm,pnpm,git,vscode)
+![](https://skillicons.dev/icons?i=vscode)
 
 ---
 
 ### 📫 Contact
-💬 Mọi thông tin mình để ở [shizuku.tech](https://shizuku.tech/)  
-[![Discord Presence](https://lanyard.cnrad.dev/api/295936488661843968?theme=dark&bg=282A36&borderRadius=15px&animated=true)](https://discord.com/users/295936488661843968)
+Mọi liên hệ đều có ở [All my contracts go to] : https://anhyeukphg.vercel.app
+[![Discord Presence](https://lanyard.cnrad.dev/api/578451004505325569?idleMessage=Not%20doing%20anything&bg=40454d&animated=false&animatedDecoration=false&theme=dark)](https://discord.com/users/578451004505325569)
 
----
-
-### ⭐ Achievements
-<img src="https://anime.plus/image/achievement/manga-score-high.png" width="120">
-<img src="https://anime.plus/image/achievement/anime-mahou-shoujo-1.png" width="120">
-<img src="https://anime.plus/image/achievement/anime-music-1.png" width="120">
-
-*Xem thêm: [achievements.md](https://github.com/anime-plus/graph/blob/main/achievements.md)*
-
----
-
-### 📝 Fun fact
-> *"Sometimes I code just to see if I can. Most of the time… I actually can 😎"*
+### FF: I'm a lazy guy.💔
