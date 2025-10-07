@@ -1,7 +1,7 @@
 ## 👋 Chào đằng ấy, tôi là Khôi | Kyle!
 <img src="https://i.pinimg.com/736x/b5/59/5b/b5595b70aafe0d8928528e1c7907b557.jpg" width="220" align="right">
 
-🐧 A Casual Frontend Developer who has been learning Frontend for 4 months.  
+🐧 A Casual Frontend Developer who has been learning Frontend for 4 months, and my GOAL is to be a Fullstacker.  
 - Thích vọc vạch, build project cho vui, cho tò mò, và đôi khi chỉ để thử xem mình có làm được không.  
 - Hiện tại đang học Backend và có dự định sẽ sang mảng game.  
 
