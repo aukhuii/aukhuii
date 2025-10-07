@@ -23,5 +23,5 @@
 ### 📫 Contact
 📌 All my contacts are at: [infopage.vercel.app](https://anhyeukphg.vercel.app)  
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/578451004505325569)](https://discord.com/users/578451004505325569)
+[![Discord Presence](https://lanyard.cnrad.dev/api/578451004505325569)](https://discord.com/users/578451004505325569)<br>
 [![](https://img.shields.io/github/followers/aukhuii?label=Followers&style=social)](https://github.com/aukhuii)
