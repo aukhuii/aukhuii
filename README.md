@@ -1,11 +1,23 @@
-<div align="left">
-  <img src="https://i.pinimg.com/736x/b5/59/5b/b5595b70aafe0d8928528e1c7907b557.jpg" width="230" align="right" alt="Banner Avatar" style="border-radius: 12px;" />
+## 👋 Chào đằng ấy, tôi là Khôi | Kyle!
 
-  <h2>👋 Chào đằng ấy, tôi là Khôi | Kyle!</h2>
+<!-- Khung ảnh Character Card căn phải (Không bị vạch kẻ đè) -->
+<table align="right">
+  <tr>
+    <td align="center">
+      <kbd>
+        <img src="https://i.pinimg.com/736x/b5/59/5b/b5595b70aafe0d8928528e1c7907b557.jpg" width="200" alt="Kyle Avatar" />
+      </kbd>
+      <br />
+      <sub><b>✨ Khôi (Kyle) · @aukhuii</b></sub>
+    </td>
+  </tr>
+</table>
+
+<div align="left">
 
   <!-- Hiệu ứng chữ chạy tự động (Typing SVG) -->
   <a href="https://github.com/aukhuii">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&vCenter=true&width=480&lines=Casual+Frontend+Developer+%F0%9F%90%A7;Road+to+Fullstack+Developer+%F0%9F%9A%80;Exploring+Backend+%26+Game+Dev+%F0%9F%8E%AE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&vCenter=true&width=460&lines=Casual+Frontend+Developer+%F0%9F%90%A7;Road+to+Fullstack+Developer+%F0%9F%9A%80;Exploring+Backend+%26+Game+Dev+%F0%9F%8E%AE" alt="Typing SVG" />
   </a>
 
   <p>
@@ -27,6 +39,7 @@
       <img src="https://img.shields.io/github/followers/aukhuii?label=Followers&style=for-the-badge&logo=github&color=181717&labelColor=0d1117" alt="GitHub Followers" />
     </a>
   </p>
+
 </div>
 
 <br clear="both" />
