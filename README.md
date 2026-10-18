@@ -8,7 +8,7 @@
         <img src="https://i.pinimg.com/736x/b5/59/5b/b5595b70aafe0d8928528e1c7907b557.jpg" width="200" alt="Kyle Avatar" />
       </kbd>
       <br />
-      <sub><b>✨ Khôi (Kyle) · @aukhuii</b></sub>
+      <sub><b>My Wife</b></sub>
     </td>
   </tr>
 </table>
